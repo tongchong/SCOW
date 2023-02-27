@@ -1,5 +1,12 @@
 # @scow/portal-server
 
+## 0.2.1
+
+### Patch Changes
+
+- @scow/protos@0.1.1
+- @scow/lib-slurm@0.1.1
+
 ## 0.2.0
 
 ### Minor Changes
