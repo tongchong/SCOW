@@ -1,5 +1,11 @@
 # @scow/deploy-compose
 
+## 0.3.0
+
+### Minor Changes
+
+- 1562ebb: 提交作业时增加 GPU 选项
+
 ## 0.2.0
 
 ### Minor Changes

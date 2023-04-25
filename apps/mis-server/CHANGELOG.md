@@ -1,5 +1,20 @@
 # @scow/mis-server
 
+## 0.5.0
+
+### Minor Changes
+
+- 2ac7a9b: 当已存在的账户中有用户未导入，则可以勾选该账户并导入
+
+### Patch Changes
+
+- 858c7a6: 创建用户时备注改为非必填，修复成功时不展示提示的问题
+- e2c8049: 修改平台用户列表只能在第一页搜索用户问题；为了与租户管理的用户界面搜索统一，平台管理用户界面修改为模糊搜索
+- Updated dependencies [1562ebb]
+  - @scow/lib-ssh@0.3.0
+  - @scow/protos@0.2.1
+  - @scow/lib-slurm@0.1.3
+
 ## 0.4.0
 
 ### Minor Changes

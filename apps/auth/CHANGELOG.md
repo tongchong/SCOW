@@ -1,5 +1,14 @@
 # @scow/auth
 
+## 0.5.0
+
+### Patch Changes
+
+- 6236865: 之前 captcha 验证码只能靠浏览器刷新，输入错误验证码提交两种方式进行刷新，现在可以直接点击验证码进行刷新
+- b69716c: 修复 captcha 前后端参数不一致导致验证码的 svg 图片不显示，从而前端只有验证码输入框的问题
+- Updated dependencies [1562ebb]
+  - @scow/lib-ssh@0.3.0
+
 ## 0.4.0
 
 ### Minor Changes

@@ -1,5 +1,23 @@
 # @scow/portal-web
 
+## 0.5.0
+
+### Minor Changes
+
+- 2981664: 门户所有作业列增加开始、结束时间列，增加时间说明
+- 88899d4: 提交任务增加默认输出文件
+- 1562ebb: 提交作业时增加 GPU 选项
+
+### Patch Changes
+
+- c50cb37: 修复使用模板时所有下拉列表项无法应用的问题
+- 4dbb202: 修复 PENDING 状态的作业无法取消的问题
+- a7fd757: 修复文件管理界面，操作无权限文件/文件夹时页面的错误提示
+- 8268e34: 修改 DELETE 请求 body 为 query 使其合规
+- Updated dependencies [1562ebb]
+  - @scow/lib-ssh@0.3.0
+  - @scow/protos@0.2.1
+
 ## 0.4.0
 
 ### Minor Changes

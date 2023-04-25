@@ -1,5 +1,17 @@
 # @scow/docs
 
+## 0.3.0
+
+### Minor Changes
+
+- 88899d4: 提交任务增加默认输出文件
+- 1562ebb: 提交作业时增加 GPU 选项
+
+### Patch Changes
+
+- c4138d7: 丰富 scow-cli 文档，增加下载参考命令
+- f520674: 修复 cli 更新 release 版本
+
 ## 0.2.0
 
 ### Minor Changes
